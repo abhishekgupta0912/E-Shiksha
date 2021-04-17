@@ -1,3 +1,4 @@
+<!-- Header Start -->
 <?php 
 include_once('../dbConnection.php');
  if(!isset($_SESSION)){ 
