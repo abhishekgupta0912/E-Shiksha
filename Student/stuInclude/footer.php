@@ -12,6 +12,7 @@
 
     <!-- Custom JavaScript -->
     <script type="text/javascript" src="../js/custom.js"></script>
+    <!-- End of Footer -->
 </body>
 
 </html>
