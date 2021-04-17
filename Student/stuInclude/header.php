@@ -89,4 +89,5 @@ include_once('../dbConnection.php');
       </li>
      </ul>
     </div>
+    <!-- end of header-->
    </nav>
