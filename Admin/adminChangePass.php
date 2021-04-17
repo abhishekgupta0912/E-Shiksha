@@ -61,3 +61,4 @@ include('../dbConnection.php');
 <?php
 include('./adminInclude/footer.php'); 
 ?>
+<!-- php ended -->
