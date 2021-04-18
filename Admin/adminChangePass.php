@@ -1,3 +1,4 @@
+<!-- php start -->
 <?php
 if(!isset($_SESSION)){ 
   session_start(); 
@@ -61,3 +62,4 @@ include('../dbConnection.php');
 <?php
 include('./adminInclude/footer.php'); 
 ?>
+<!-- php ended -->
